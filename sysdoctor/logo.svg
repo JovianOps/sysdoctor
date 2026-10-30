@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- Background: #1b2d34 -->
+  <rect width="100" height="100" fill="#1b2d34"/>
+  <!-- Stethoscope earpieces + tubing in teal #4fd1a5 -->
+  <path d="M50 15
+           C48 18, 48 22, 50 25
+           C52 22, 52 18, 50 15
+           Z" fill="#4fd1a5"/>
+  <path d="M35 17
+           L33 25
+           C35 30, 40 34, 48 35
+           C56 34, 61 30, 63 25
+           L61 17
+           Z" fill="#4fd1a5"/>
+  <!-- Chest piece: two circles and tubing -->
+  <circle cx="40" cy="50" r="4" fill="#4fd1a5"/>
+  <circle cx="62" cy="50" r="8" fill="#4fd1a5"/>
+  <!-- Tubing connecting earpieces to chest piece -->
+  <path d="M50 25 L40 42 M50 25 L62 46" stroke="#4fd1a5" stroke-width="2" fill="none"/>
+  <!-- Sound port / diaphragm -->
+  <circle cx="62" cy="50" r="5" fill="#2a3b4d"/>
+  <circle cx="62" cy="50" r="3" fill="#1b2d34"/>
+</svg>

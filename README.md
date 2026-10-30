@@ -6,6 +6,8 @@
 [![PyPI version](https://img.shields.io/pypi/v/sysdoctor?logo=python&logoColor=white)](https://pypi.org/project/sysdoctor/)
 [![GitHub stars](https://img.shields.io/github/stars/JovianOps/sysdoctor?style=social)](https://github.com/JovianOps/sysdoctor)
 
+<img src="sysdoctor/logo.png" alt="SysDoctor logo" width="120" align="right"/>
+
 **SysDoctor** is a cross-platform system diagnostics and safe cleanup tool — think `htop`
 + `du` + `nc` + `PATH` audit combined into a single zero-dependency CLI. Pure Python
 standard library only. No npm, no apt, no Homebrew. Just `python sysdoctor.py` and you're
